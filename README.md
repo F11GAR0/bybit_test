@@ -19,3 +19,7 @@ docker container run bybittest:latest python /app/main.py
 ```sh
 python main.py
 ```
+#### Run with docker but using script
+```sh
+/bin/bash deploynrun.sh
+```
