@@ -7,6 +7,24 @@ BYBIT_API_KEY="Place your api key here"
 BYBIT_API_SECRET="Place your api secret here"
 ```
 
+#### Create virtual environment
+Linux / Windows / macOS:
+```sh
+python -m venv venv
+```
+#### Activate virual environment
+Linux:
+```sh
+source venv/bin/activate
+```
+Windows:
+```sh
+# In cmd.exe
+venv\Scripts\activate.bat
+# In PowerShell
+venv\Scripts\Activate.ps1
+```
+
 #### Install requirements
 ```sh
 pip install -r requirements.txt
