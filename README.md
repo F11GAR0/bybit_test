@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/build-passing-green) ![Static Badge](https://img.shields.io/badge/contributors-1-blue)
+
 ## Example to withdraw for Rudolf
 
 #### Config
