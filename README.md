@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/build-passing-green) ![Static Badge](https://img.shields.io/badge/contributors-1-blue)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/F11GAR0/bybit_test/python-app.yml) ![Static Badge](https://img.shields.io/badge/contributors-1-blue)
 
 ## Example to withdraw for Rudolf
 
